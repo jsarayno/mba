@@ -1,37 +1,37 @@
 [
   {
     "month": "October",
-    "projected": 2700000,
-    "actual": 3400000
+    "projected": "2,700,000",
+    "actual": "3,400,000"
   },
   {
     "month": "November",
-    "projected": 3000000,
-    "actual": 3500000
+    "projected": "3,000,000",
+    "actual": "3,500,000"
   },
   {
     "month": "December",
-    "projected": 3000000,
-    "actual": 3700000
+    "projected": "3,000,000",
+    "actual": "3,700,000"
   },
   {
     "month": "January",
-    "projected": 2700000,
-    "actual": 0
+    "projected": "2,700,000",
+    "actual": "-"
   },
   {
     "month": "February",
-    "projected": 3200000,
-    "actual": 0
+    "projected": "3,200,000",
+    "actual": "-"
   },
   {
     "month": "March",
-    "projected": 3300000,
-    "actual": 0
+    "projected": "3,300,000",
+    "actual": "-"
   },
   {
     "month": "April",
-    "projected": 3100000,
-    "actual": 0
+    "projected": "3,100,000",
+    "actual": "-"
   }
 ]

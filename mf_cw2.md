@@ -112,14 +112,8 @@ Below are the Projected and Actual Sales:
 {% for sales in site.data.sales_projected_actual %}
 <tr>
   <td>{{ sales.month }}</td>
-  <td>{{ sales.projected | currency: 0 }}</td>
-  <td>
-  {% if sales.actual == 0 %}
-    -
-  {% else %}
-    {{ sales.actual | currency: 0  }}
-  {% endif %}
-  </td>
+  <td>{{ sales.projected }}</td>
+  <td>{{ sales.actual }}</td>
 </tr>
 {% endfor %}
 </tbody>
