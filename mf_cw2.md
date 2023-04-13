@@ -43,14 +43,14 @@ and expenses, and other information for this project.
 
 <ol type="a">
 <li>Core machinery assets and production facilities would have to be acquired and installed. These assets are
-estimated to cost $120 million, including installation cost. These would have to be fully paid before
+estimated to cost $100 million, including installation cost. These would have to be fully paid before
 commencement of production.</li>
 <li>The proposed production facility will need to re-claim an entire lower floor of the factory building, which is
-currently being leased out to a steel product processor, at a monthly rental of $200 000.</li>
+currently being leased out to a steel product processor, at a monthly rental of $200,000.</li>
 <li>The newly acquired assets are expected to have a 10-years useful life, till the next technological disruption. There is
 no scrap value at the end of asset’s life. Depreciation on the new assets will be at cost over 10 years using straight
 line method.</li>
-<li>Annual sales in pounds over the next 8 years are projected to be as follows:
+<li>Annual sales in pounds over the next 10 years are projected to be as follows:
 
 <table>
 <thead>
@@ -63,15 +63,15 @@ line method.</li>
 <tbody>
 <tr>
 <td>1 to 3</td>
-<td>25</td>
-</tr>
-<tr>
-<td>4 to 6</td>
 <td>28</td>
 </tr>
 <tr>
+<td>4 to 6</td>
+<td>35</td>
+</tr>
+<tr>
 <td>7 to 10</td>
-<td>32</td>
+<td>45</td>
 </tr>
 </tbody>
 </table>
@@ -79,9 +79,9 @@ line method.</li>
 <li>Production would require increase of working capital of $4 million to finance operations such as inventory purchases.
 Current liabilities will also be expected to increase by $1.5 million. This net working capital will be released at the
 end of the asset’s life.</li>
-<li>Each kilogram of flour would sell for $2.</li>
+<li>Each gallon of gasoline would sell for $2.7.</li>
 <li>Monthly fixed expenses (excluding depreciation) is projected at $1.5 million. Included in fixed expenses are
-administration, sales and marketing expenses. Variable costs of production would be $0.20 per kilogram.</li>
+administration, sales and marketing expenses. Variable costs of production would be $1.95 per gallon.</li>
 <li>Krisenergy pays a corporate tax rate of 18%. Capital gain on asset disposal is charged at corporate tax rate.</li>
 </ol>
 
