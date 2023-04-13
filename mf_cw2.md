@@ -4,11 +4,11 @@ title: Coursework 2 - Managerial Finance
 permalink: /mf/cw2
 ---
 
-Details of the task
+# Details of the task
 
-Question 1
+## Question 1
 
-Crude Oil Market Outlook for 2023 and beyond
+## Crude Oil Market Outlook for 2023 and beyond
 
 Global liquid fuels markets. Global production of liquid fuels in our forecast reaches an average of 102.8 million barrels per day
 (b/d) in 2024, up from 100.0 million b/d in 2022, driven by large growth in non-OPEC production. However, uncertainty over
@@ -57,7 +57,7 @@ line method.</li>
   <tr>
   <th>Year</th>
   <th>Annual sales<br />
-(‘million kilograms)</th>
+(million kilograms)</th>
 </tr>
 </thead>
 <tbody>
@@ -84,7 +84,8 @@ end of the asset’s life.</li>
 administration, sales and marketing expenses. Variable costs of production would be $0.20 per kilogram.</li>
 <li>Krisenergy pays a corporate tax rate of 18%. Capital gain on asset disposal is charged at corporate tax rate.</li>
 </ol>
-Case Study 2 – Budgeting Ahead
+
+## Case Study 2 – Budgeting Ahead
 
 On 1 Jan 2022, Kris Energy Limited is attempting to conduct cash flow budget through to Mar 31, 2022.
 On the latter date, an unsecured note payable for US$4,000,000 with interest rate of 3% per annum.
@@ -133,7 +134,7 @@ fixed and variable operating expenses are paid in the month incurred.
 
 The Opening cash balance as at 1 Jan 2022 is $2,300,000.
 
-Required:
+## Required:
 
 Write a management report which include the following points that need to be discussed.
 - Analyse the investment proposals by NPV and IRR and provide recommendations. You should
@@ -149,3 +150,42 @@ are appropriate to the planned investment project.
 breakeven analysis and budgets and their importance to the business case.
 - Other issues for management to consider that you think are vital for them to survive and make
 a profit.
+
+## Assignment Guidelines
+
+### Structure
+
+You have been asked to produce an individual report (word count 2,500). It should contain the
+following:
+- Appropriate coversheet (as attached in this document)
+- Title Sheet
+- Executive Summary
+- Contents Page
+- Introduction
+- Literature review to support your accounting models used.
+- Sources of Funding
+- Investment appraisal
+- Cash budgeting
+- Breakeven analysis
+- Evaluation
+- Any other issues to be considered.
+- Conclusions and Recommendations
+- Appendices which should be numbered. (Make sure you refer your reader to them as
+required)
+
+### Layout
+
+Your work should be word processed in accordance with the following:
+- Font style, Arial, font size 12
+- 1.5 line spacing.
+- The page orientation should be ‘portrait’
+- Margins on both sides of the page should be no less than 2.5 cm
+- Pages should be numbered
+- Your name should not appear on the script.
+
+PLAGIARISM WARNING! — Assignments should not be copied in part or in whole from any other
+source, except for any marked up quotations, that clearly distinguish what has been quoted from
+your own work. All references used must be given, and the specific page number used should also be
+given for any direct quotations, which should be in inverted commas. Students found copying from
+the Internet or other sources will get zero marks and may be excluded from the university. Word
+Count – Any work submitted with more than 2500 words will be have 10 marks deducted.
