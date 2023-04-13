@@ -187,22 +187,17 @@ Count – Any work submitted with more than 2500 words will be have 10 marks ded
 ## Rubric
 
 <table>
-<thead>
-  <tr>
-    <th>Description</th>
-    <th>Module</th>
-    <th>Weight</th>
-    <th>100%</th>
-  </tr>
-</thead>
-<tbody>
-{% for row in site.data.mf_cw2_rubric %}
-<tr>
-  <td>{{ row.description }}</td>
-  <td>{{ row.module }}</td>
-  <td>{{ row.weight }}</td>
-  <td>{{ row.100 }}</td>
-</tr>
-{% endfor %}
-</tbody>
+  {% for row in site.data.mf_cw2_rubric %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] | upcase }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
 </table>
