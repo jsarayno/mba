@@ -1,0 +1,37 @@
+[
+  {
+    "month": "October",
+    "projected": 2700000,
+    "actual": 3400000
+  },
+  {
+    "month": "November",
+    "projected": 3000000,
+    "actual": 3500000
+  },
+  {
+    "month": "December",
+    "projected": 3000000,
+    "actual": 3700000
+  },
+  {
+    "month": "January",
+    "projected": 2700000,
+    "actual": 0
+  },
+  {
+    "month": "February",
+    "projected": 3200000,
+    "actual": 0
+  },
+  {
+    "month": "March",
+    "projected": 3300000,
+    "actual": 0
+  },
+  {
+    "month": "April",
+    "projected": 3100000,
+    "actual": 0
+  }
+]
