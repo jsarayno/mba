@@ -183,3 +183,26 @@ your own work. All references used must be given, and the specific page number u
 given for any direct quotations, which should be in inverted commas. Students found copying from
 the Internet or other sources will get zero marks and may be excluded from the university. Word
 Count – Any work submitted with more than 2500 words will be have 10 marks deducted.
+
+## Rubric
+
+<table>
+<thead>
+  <tr>
+    <th>Description</th>
+    <th>Module</th>
+    <th>Weight</th>
+    <th>100%</th>
+  </tr>
+</thead>
+<tbody>
+{% for row in site.data.mf_cw2_rubric %}
+<tr>
+  <td>{{ row.description }}</td>
+  <td>{{ row.module }}</td>
+  <td>{{ row.weight }}</td>
+  <td>{{ row.100 }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>

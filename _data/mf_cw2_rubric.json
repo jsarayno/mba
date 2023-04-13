@@ -1,0 +1,62 @@
+[
+  {
+    "description": "Professional Skills - Executive Summary - Degree to which the executive summary explains the key themes and outcomes of the report in a one page summary",
+    "module": "1A, 1C",
+    "weight": "5%",
+    "100": "A one page summary with extraordinary quality. Which is original and explains key themes and outcomes perfectly. Excellent structure to the summary."
+  },
+  {
+    "description": "Knowledge and Understanding: - Introduction completeness and clarity of introduction to the organisation, background, context and rationale for the report being prepared",
+    "module": "LO5, 4A, 4B, 5A",
+    "weight": "10%",
+    "100": "A perfect introduction, the background is excellently presented with excellent explanation of rationale to the report. Scope perfectly defined."
+  },
+  {
+    "description": "Cognitive (thinking) Skills: Literature review: Information is gathered from multiple, researchbased sources. The appropriate content in consideration is covered in depth without being redundant. Sources are cited when specific statements are made. Significance to the course is unquestionable.",
+    "module": "LO2, 4A, 1C, 3C, 3D",
+    "weight": "10%",
+    "100": "A perfect review with an extraordinary understanding of relevant literature, shown throughout the analysis and in the conclusions drawn from it."
+  },
+  {
+    "description": "Providing explanation of different sources of Funding: A full discussion and explanation of the sources of funding the company to access",
+    "module": "LO1, 4A, 5A, 5B, 5C",
+    "weight": "10%",
+    "100": "The differences identified with use of theoretical examples are extraordinary and relevant in the context of the question and are referenced to data sources and this is linked with the company planned projects."
+  },
+  {
+    "description": "Evaluation, interpretation and presentation of relevant data( WORKINGS FOR NPV) and appropriate academic literature to SUPPORT analysis and decision through effective application/use",
+    "module": "LO6, 4A, 4B, 5A, 5B, 5C",
+    "weight": "20%",
+    "100": "Demonstrates extraordinary valid and relevant number of connections between the data provided and the business review. Demonstrates an excellent and strong awareness of the intricacies of the data provided and connects the same to the case with excellent outlined limitations of the techniques."
+  },
+  {
+    "description": "Cash Budget and Breakeven analysis: Clear explanation of how cash budgets can be used as a tool and how it can aid managers in decision marking with the support of the breakeven tool. Demonstrate the same showing the ability to prepare a cash budget.",
+    "module": "LO5, 4A, 4B, 5A, 5C",
+    "weight": "15%",
+    "100": "Extraordinary presentation of the detailed cash budget and breakeven analysis, taking into consideration all the factors and research done to aid managers in decision making. Excellent discussions made."
+  },
+  {
+    "description": "Other Issues: Explanation of other factors/ issues to consider when making investment decisions (Academic literature needed here)",
+    "module": "LO3, 5A, 1A",
+    "weight": "10%",
+    "100": "Complete and extraordinary attempt at identifying other operational issues regarding investment decisions with full academic references and in context of the question and an excellent conclusion of decision given in a clear manner"
+  },
+  {
+    "description": "Conclusion and Recommendation Clear conclusion of the paper and well thought out recommendations given.",
+    "module": "LO6, 4A, 5A",
+    "weight": "10%",
+    "100": "The conclusion is very effective, logical and excellent; wraps up and goes beyond restating the paper and recommendations given were extraordinary."
+  },
+  {
+    "description": "Transferable Skills: Quality, readability, coherence, completeness and overall impression of the report: presentation of references and data in appendices.",
+    "module": "1C, 3A, 3B, 3C",
+    "weight": "5%",
+    "100": "Extraordinary report presentation structure and style, with excellent use of citations and excellent reference list. The report has excellent communication and analytic style and shows that the group was able to identify and solve problems presented perfectly well."
+  },
+  {
+    "description": "Referencing and Citation: Acknowledgement of sources used",
+    "module": "2B, 2C, 2D, 3B, 5B",
+    "weight": "5%",
+    "100": "All sources were acknowledged perfectly according to Harvard referencing style."
+  }
+]
