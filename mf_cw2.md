@@ -57,7 +57,7 @@ line method.</li>
   <tr>
   <th>Year</th>
   <th>Annual sales<br />
-(million kilograms)</th>
+(million <em title="updated from gallons">Litres</em>)</th>
 </tr>
 </thead>
 <tbody>
@@ -79,16 +79,16 @@ line method.</li>
 <li>Production would require increase of working capital of $4 million to finance operations such as inventory purchases.
 Current liabilities will also be expected to increase by $1.5 million. This net working capital will be released at the
 end of the asset’s life.</li>
-<li>Each gallon of gasoline would sell for $2.7.</li>
+<li title="updated from gallon to litre">Each gallon of gasoline would be $10.107. <strong>The per litre of gasoline would sell for $2.7.</strong></li>
 <li>Monthly fixed expenses (excluding depreciation) is projected at $1.5 million. Included in fixed expenses are
-administration, sales and marketing expenses. Variable costs of production would be $1.95 per gallon.</li>
+administration, sales and marketing expenses. Variable costs of production would be <strong>$1.95 per litre</strong>.</li>
 <li>Krisenergy pays a corporate tax rate of 18%. Capital gain on asset disposal is charged at corporate tax rate.</li>
 </ol>
 
 ## Case Study 2 – Budgeting Ahead
 
 On 1 Jan 2022, Kris Energy Limited is attempting to conduct cash flow budget through to Mar 31, 2022.
-On the latter date, an unsecured note payable for US$4,000,000 with interest rate of 3% per annum.
+On the latter date, an unsecured note payable for US$2,000,000 with interest rate of 3% per annum.
 Such amount was borrowed on 30 Sept 2021 to help the company overcome the seasonal peak in
 October through to December 2021. Interest payments are paid monthly.
 
@@ -120,13 +120,19 @@ Below are the Projected and Actual Sales:
 </table>
 Purchases are made on basis of 60% pf the following month’s projected sales. Half of the purchases are
 paid for in the month of purchase, and a 5% prompt settlement discount is received. The remainder is
-paid in full the following month.
+paid in full the following month. KrisEnergy maintains a gross profit margin of 40%.
 
 Budgeted fixed operating expenses for the year are $9,000,000. Fixed costs are accrued evenly through
 the year. The operating variable costs is determined to be 12% of that month’s projected sales. Both
 fixed and variable operating expenses are paid in the month incurred.
 
 The Opening cash balance as at 1 Jan 2022 is $2,300,000.
+
+## Change Log
+18 APR 2023 (M004CL Coursework 2 Brief.2023.Kris Energy. Version5i..pdf)
+- Changed the unit from gallon to litre
+- Changed note payable from $4,000,000 to $2,000,000
+- Added the statement: KrisEnergy maintains a gross profit margin of 40%.
 
 ## Required:
 
