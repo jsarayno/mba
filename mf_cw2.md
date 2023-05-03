@@ -50,7 +50,7 @@ currently being leased out to a steel product processor, at a monthly rental of 
 <li>The newly acquired assets are expected to have a 10-years useful life, till the next technological disruption. There is
 no scrap value at the end of asset’s life. Depreciation on the new assets will be at cost over 10 years using straight
 line method.</li>
-<li>Annual sales in pounds over the next 10 years are projected to be as follows:
+<li>Annual sales in dollars over the next 10 years are projected to be as follows:
 
 <table>
 <thead>
