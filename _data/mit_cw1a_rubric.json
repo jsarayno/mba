@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Transferable Skills. Executive Summary which is no more than one page and which sets the context of the report. Introduction and brief company profile.",
+    "module": "",
+    "weight": "10%",
+    "expectation": "Industry standard executive summary that clearly and rationally articulates key features of the report. Faultless introduction and company profile which uses an outstanding variety of quality sources to inform the section.    "
+  },
+  {
+    "description": "Demonstrate critical awareness of the complex nature of international trade, the legal frameworks and institutions; and major challenges, issues, risks.",
+    "module": "L01",
+    "weight": "20%",
+    "expectation": "Faultless, Publishable, Industry standard in demonstrating critical awareness of the complex nature of international trade, legal framework and/or institutions; and/or major issues"
+  },
+  {
+    "description": "Critically analyse and evaluate the trade exchanges at both quantitative and qualitative level",
+    "module": "L02",
+    "weight": "30%",
+    "expectation": "Faultless, Publishable, Industry standard in critical analysis and evaluation of the trade exchanges at both quantitative and qualitative level"
+  },
+  {
+    "description": "Demonstrate detailed knowledge of the main trade, investment, and tools",
+    "module": "L03",
+    "weight": "10%",
+    "expectation": "Faultless, Publishable, Industry standard in demonstrating detailed knowledge of the main trade, investment and promotion tool"
+  },
+  {
+    "description": "Demonstrate understanding and capability to elaborate an articulated export strategy for an international company, comprehensive of all the main phases and with discussion of its critical challenges, issues, risks",
+    "module": "L04",
+    "weight": "20%",
+    "expectation": "Faultless, Publishable, Industry standard in demonstrating understanding and capability to elaborate an articulated export strategy for an international company, comprehensive of all the main phases and with discussion of its critical issues."
+  },
+  {
+    "description": "Transferrable Skills, Referencing and Citations Overall presentation of the management report including structure, clarity of expression, accuracy of spelling, grammar, citations and referencing, use of an appendices for additional information",
+    "module": "",
+    "weight": "10%",
+    "expectation": "Consistent, Accurate use of APA's System of Referencing and Citation; Impressive number of sources used. Faultless, Publishable, Industry standard structure, clarity of expression, accuracy of spelling, grammar, use of an appendices for additional information."
+  }
+]
